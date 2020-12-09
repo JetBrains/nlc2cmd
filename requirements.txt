@@ -1,0 +1,12 @@
+nltk==3.5
+numpy==1.19.4
+sentencepiece
+torch==1.7.0
+transformers==3.5.1
+joblib==0.17.0
+scikit-learn==0.23.2
+nlpaug==1.1.0
+sacrebleu==1.4.14
+fairseq==0.10.1
+fastBPE==0.1.0
+catalyst==20.11

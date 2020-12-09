@@ -1,0 +1,17 @@
+flow:
+  settings:
+    is_random: False
+    aug_p: 1.0
+
+  MultiVariantBackTranslationAug:
+    n_predictions: 4
+    device: "cuda"
+    generation_kwargs:
+      sampling: True
+      temperature: 0.75
+
+
+filtration:
+  metric_fn: "bleu"
+  low: 30
+  high: 40
