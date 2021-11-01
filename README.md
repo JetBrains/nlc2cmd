@@ -15,7 +15,7 @@ git clone https://github.com/IBM/clai.git
 git checkout -t remotes/origin/nlc2cmd
 ```
 
-Download preprocessed manpage data [cmd_options_help.csv](https://drive.google.com/file/d/19cWu7uNq0czo4g6jZuclflOzd5uLY--W/view?usp=sharing)
+Download preprocessed manpage data [cmd_options_help.csv](https://drive.google.com/file/d/126f8RKkMNixhPWAMf0Nki70aNMUL1vAT/view?usp=sharing)
 
 ## Training
 
