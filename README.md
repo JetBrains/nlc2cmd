@@ -1,3 +1,4 @@
+[![research JetBrains project](https://jb.gg/badges/research-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 # NLC2CMD
 
 This repository contains our contribution to [NLC2CMD Challenge](http://nlc2cmd.us-east.mybluemix.net/#/)
